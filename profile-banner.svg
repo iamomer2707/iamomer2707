@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Syed Omer Hussain — Machine Learning Engineer</title>
+  <desc id="desc">Applied machine learning, retrieval-augmented generation, and LLM evaluation. Chicago. M.S. Computer Science expected May 2027.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08131f"/><stop offset="1" stop-color="#11283e"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9db8ca" stroke-width=".6" opacity=".08"/></pattern>
+  </defs>
+  <rect width="1280" height="320" rx="20" fill="url(#bg)"/>
+  <rect x="760" width="520" height="320" rx="20" fill="url(#grid)"/>
+  <rect x="40" y="66" width="4" height="178" rx="2" fill="#66d5df"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="70" y="112" fill="#f2f7fb" font-size="54" font-weight="700" letter-spacing="-1">Syed Omer Hussain</text>
+    <text x="72" y="164" fill="#8bdce4" font-size="30">Machine Learning Engineer</text>
+    <text x="72" y="206" fill="#c8d7e3" font-size="22">Applied ML · RAG · LLM Evaluation</text>
+    <text x="72" y="268" fill="#91aabe" font-size="16">Chicago  ·  M.S. Computer Science, May 2027  ·  Python / SQL / PyTorch</text>
+  </g>
+  <g stroke="#65cfd9" fill="none" opacity=".32" stroke-width="1.4">
+    <path d="M920 99 1027 70 1120 132 1175 231 1055 254 969 196 920 99Z"/>
+    <path d="M920 99 1120 132 1055 254 1027 70 969 196 1175 231" opacity=".5"/>
+    <circle cx="920" cy="99" r="6"/><circle cx="1027" cy="70" r="6"/><circle cx="1120" cy="132" r="6"/>
+    <circle cx="1175" cy="231" r="6"/><circle cx="1055" cy="254" r="6"/><circle cx="969" cy="196" r="6"/>
+  </g>
+</svg>

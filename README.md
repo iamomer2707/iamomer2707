@@ -1,7 +1,9 @@
-# Syed Omer Hussain
+![Syed Omer Hussain — Machine Learning Engineer](profile-banner.svg)
 
 **Machine Learning Engineer · Applied ML, RAG & LLM Evaluation**  
 Chicago, Illinois · M.S. Computer Science, Governors State University · Expected May 2027
+
+[Project portfolio (PDF)](ML-Portfolio-Syed-Omer-Hussain.pdf) · [LinkedIn](https://www.linkedin.com/in/iamomer2707/)
 
 I build ML applications and evaluation pipelines, connecting models with the data workflows, APIs, and interfaces that make them useful. My internship work covered fraud detection across **500K+ financial transactions**, Python/SQL ETL, and prediction APIs.
 
